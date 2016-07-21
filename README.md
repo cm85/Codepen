@@ -38,11 +38,6 @@
 
 - [Tic Tac Toe](https://cm85.github.io/Codepen/tic-tac-toe/)  
 
-- [Pokemon Zombie Maker](https://cm85.github.io/Codepen/zombie-maker/)  
-<<<<<<< HEAD
-<<<<<<< HEAD
+- [Pokemon Zombie Maker](https://cm85.github.io/Codepen/zombie-maker/)
 
-=======
->>>>>>> origin/gh-pages
-=======
->>>>>>> origin/gh-pages
+- [Booze Filled Universe](https://cm85.github.io/Codepen/booze-booze-booze/)  
