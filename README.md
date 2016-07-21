@@ -14,7 +14,7 @@
 
 - [Forgiveness Assist Square Neon Sign](https://cm85.github.io/Codepen/square-neon-sign/)  
 
-- [Heart Attack](https://cm85.github.io/Codepen/heart-attack/)  
+- [Heart Attack](https://codepen.io/CM85/full/RRxgwx)  
 
 - [Herbal Life](https://cm85.github.io/Codepen/herbal-life/)  
 
