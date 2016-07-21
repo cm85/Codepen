@@ -1,0 +1,112 @@
+canvas {
+    border: 1px dotted black;
+}
+
+body
+{
+    background-image:url('http://s30.postimg.org/lytg9r19t/pizza_Oven.jpg');
+	background-repeat:no-repeat;
+	background-color:#000000;
+	font-family: Verdana, sans-serif;
+}
+
+div {
+	border-radius: 5px;
+}
+
+ul{
+    list-style:none;
+    margin:0 0 1em 15px;
+    padding: 0;
+}
+ul li:before{
+    line-height:1.3em;
+    margin: .25em 0;
+    padding: 0 0 0 0px;
+	content: "\0BB \020";
+}
+
+
+#header {
+	z-index: 1;
+	position: relative;
+	margin-top: -20px;
+	height: 100px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	background-image:url('http://s15.postimg.org/5x6n73y87/logo.png');
+	background-repeat:no-repeat;
+}
+
+#about{
+	position: relative;
+	float: left;
+	width: auto;
+	height: auto;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	padding-left: 10px;
+	color:#FFFFFF;
+}
+
+#calculator{
+	position: relative;
+	clear:both;
+	width: 620px;
+	height: 410px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	padding-left: 10px;
+	background-color: #FFFFFF;
+}
+
+#notice {
+	position: relative;
+	float: left;
+	width: auto;
+	height: auto;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	padding-left: 10px;
+	color:#FFFFFF;
+}
+
+#footer {
+	position: relative;
+	height: 20px;
+	background-color: #668284;
+	width: 98.3%;
+	float: left;
+	font-family: Verdana, sans-serif;
+	margin-left: 10px;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+	overflow:hidden;
+}
+
+#copy {
+	position: relative;
+	height: 20px;
+	background-color: #668284;
+	width: 98.3%;
+	float: left;
+	font-family: Verdana, sans-serif;
+	margin-left: 10px;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+	overflow:hidden;
+}
+
+#sources{
+cursor:pointer;
+}
+
+a:link {color:#FFEE00;;}    /* unvisited link */
+a:visited {color:#FFEE00;} /* visited link */
+a:hover {color:#FFFFFF;}   /* mouse over link */
+a:active {color:#FFFFFF;}  /* selected link */
+
+
+/*Copyright © 2013 Dimitrios Kanavaros*/

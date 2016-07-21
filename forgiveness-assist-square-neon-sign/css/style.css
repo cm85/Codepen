@@ -1,0 +1,272 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #141414;
+  background-image: -webkit-linear-gradient(#262626 0%, #141414 90%);
+  background-image: linear-gradient(to   , #141414 90%);
+  background-size: 100% 150%;
+  background-repeat: no-repeat;
+}
+
+.sign-wrap {
+  display: inline-block;
+  margin-top: 40px;
+  padding: 20px;
+  border-radius: 28px;
+  background-color: #141414;
+  box-shadow: 0px 50px 45px -15px rgba(0, 0, 0, 0.5), 0px 20px 10px -5px rgba(0, 0, 0, 0.5), 0px 5px 20px 0px rgba(0, 0, 0, 0.5), 0px 10px 30px rgba(0, 0, 0, 0.7) inset;
+  border: 4px solid #1f1f1f;
+  border-top: 4px solid black;
+  border-bottom: 4px solid #292929;
+}
+
+.sign {
+  display: inline-block;
+  padding: 20px 60px;
+  border-radius: 20px;
+  -webkit-filter: blur(0.75px);
+  box-shadow: 0px 0px 0px 2px rgba(255, 255, 255, 0.7), 0px 0px 0px 5px red, 0px 0px 0px 3px red inset, 0px 0px 60px rgba(255, 0, 0, 0.5), 0px 0px 60px rgba(255, 0, 0, 0.5) inset;
+}
+
+h1 {
+  font-family: avenir, sans-serif;
+  font-size: 90px;
+  line-height: 0px;
+  font-weight: 800;
+  color: transparent;
+  -webkit-text-stroke-width: 6px;
+  -webkit-text-stroke-color: #2b2b2b;
+  position: relative;
+  text-transform: uppercase;
+  text-shadow: 0px 10px 3px rgba(0, 0, 0, 0.2);
+}
+h1:before {
+  content: "Forgiveness Assist";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: rgba(43, 44, 45, 0.1);
+  text-shadow: 0px 0px 60px rgba(255, 51, 51, 0.7);
+  -webkit-text-stroke-width: 6px;
+  -webkit-text-stroke-color: red;
+  -webkit-animation: flicker 20s linear infinite;
+  -moz-animation: flicker 20s linear infinite;
+  animation: flicker 20s linear infinite;
+}
+h1:after {
+  content: "Forgiveness Assist";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgba(255, 255, 255, 0.8);
+  -webkit-animation: flicker 20s linear infinite;
+  -moz-animation: flicker 20s linear infinite;
+  animation: flicker 20s linear infinite;
+}
+
+@-webkit-keyframes flicker {
+  0% {
+    opacity: 0;
+  }
+  5% {
+    opacity: 0;
+  }
+  6% {
+    opacity: 1;
+  }
+  11% {
+    opacity: .4;
+  }
+  11.25% {
+    opacity: .6;
+  }
+  11.5% {
+    opacity: .4;
+  }
+  18% {
+    opacity: 1;
+  }
+  18.5% {
+    opacity: .9;
+  }
+  22% {
+    opacity: 1;
+  }
+  38.5% {
+    opacity: 1;
+  }
+  39% {
+    opacity: .8;
+  }
+  42% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 1;
+  }
+  60.5% {
+    opacity: 0;
+  }
+  62% {
+    opacity: 0;
+  }
+  63% {
+    opacity: .2;
+  }
+  63.25% {
+    opacity: 0;
+  }
+  65% {
+    opacity: 1;
+  }
+  73% {
+    opacity: 1;
+  }
+  75% {
+    opacity: .8;
+  }
+  79% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes flicker {
+  0% {
+    opacity: 0;
+  }
+  5% {
+    opacity: 0;
+  }
+  6% {
+    opacity: 1;
+  }
+  11% {
+    opacity: .4;
+  }
+  11.25% {
+    opacity: .6;
+  }
+  11.5% {
+    opacity: .4;
+  }
+  18% {
+    opacity: 1;
+  }
+  18.5% {
+    opacity: .9;
+  }
+  22% {
+    opacity: 1;
+  }
+  38.5% {
+    opacity: 1;
+  }
+  39% {
+    opacity: .8;
+  }
+  42% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 1;
+  }
+  60.5% {
+    opacity: 0;
+  }
+  62% {
+    opacity: 0;
+  }
+  63% {
+    opacity: .2;
+  }
+  63.25% {
+    opacity: 0;
+  }
+  65% {
+    opacity: 1;
+  }
+  73% {
+    opacity: 1;
+  }
+  75% {
+    opacity: .8;
+  }
+  79% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes flicker {
+  0% {
+    opacity: 0;
+  }
+  5% {
+    opacity: 0;
+  }
+  6% {
+    opacity: 1;
+  }
+  11% {
+    opacity: .4;
+  }
+  11.25% {
+    opacity: .6;
+  }
+  11.5% {
+    opacity: .4;
+  }
+  18% {
+    opacity: 1;
+  }
+  18.5% {
+    opacity: .9;
+  }
+  22% {
+    opacity: 1;
+  }
+  38.5% {
+    opacity: 1;
+  }
+  39% {
+    opacity: .8;
+  }
+  42% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 1;
+  }
+  60.5% {
+    opacity: 0;
+  }
+  62% {
+    opacity: 0;
+  }
+  63% {
+    opacity: .2;
+  }
+  63.25% {
+    opacity: 0;
+  }
+  65% {
+    opacity: 1;
+  }
+  73% {
+    opacity: 1;
+  }
+  75% {
+    opacity: .8;
+  }
+  79% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}

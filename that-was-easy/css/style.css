@@ -1,0 +1,19 @@
+#main{
+    width: 500px;
+    height: 300px;
+    background: white;
+    border:solid;
+}
+
+#button{
+    position:fixed;
+    width: 100px;
+    height: 100px;
+    background-image: url('http://www.kafkabrigade.org.uk/wp-content/uploads/2011/07/button-pic.jpg');
+    border-radius:50px;
+    background-size:100px;
+    background-position:-2px,-20px;
+    left:200px;
+    top:100px;
+    box-shadow:5px 5px 5px #888;
+	}

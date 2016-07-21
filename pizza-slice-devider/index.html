@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>Pizza Slice Devider</title>
+    
+    
+    
+    
+        <link rel="stylesheet" href="css/style.css">
+
+    
+    
+    
+  </head>
+
+  <body>
+
+    <html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>Pizza Slice Calculator</title>
+	<link rel='stylesheet' type='text/css' href='style.css'/>
+	</script>
+</head>
+<body>
+<div id="container">
+<div id="header">
+</div>
+<div id="about">
+<h3>About</h3>
+    <ul>
+      <li>Tired of always getting the small slices of a pizza?</li>
+      <li>Ever wanted to share a pizza equally?</li>
+      <li>Take back your right to equally cut slices with the <u>equal pizza slice calculator</u>!</li>
+	  <li>Just select the size of your pizza and the number of slices you'd like to have.</li>
+	  <li>The equal pizza slice calculator will give you a neat preview of your pizza, its slices and even the correct angle to cut your slices.</li>
+	  <li>YAY right?! You BET!</li>
+    </ul>
+
+</div>
+<div id="calculator">	
+	<table>
+		<tr>
+            <td>		
+				<strong>Choose your pizza size! </strong>
+				<br>
+				<input type="radio" name="pizzaSize" value="s" onchange="loadPizzaImg(this);">Small(12")
+				<br>
+				<input type="radio" name="pizzaSize" value="m" onchange="loadPizzaImg(this);">Medium(14")
+				<br>
+				<input type="radio" name="pizzaSize" value="l" onchange="loadPizzaImg(this);">Large(16")
+				<br>
+				<input type="radio" name="pizzaSize" value="xl" onchange="loadPizzaImg(this);">Extra Large(18")
+				<br><br>
+				<strong>How many slices?</strong>
+				<br>
+				<input type="text" id="slices">
+				<br>
+				<button id="drawPizza" onclick="drawPizzaSlices();">Calculate</button>	
+				<button id="reset" onclick="reset();">Reset</button>	
+			</td>
+			<td>
+				<canvas id="canvas" width="400" height="400">
+                This text is displayed if your browser does not support HTML5 Canvas.
+				</canvas>    
+				<script type='text/javascript' src='script.js'>
+				</script>
+				<div style="display: none;">
+				<img id="pizza" src="http://s27.postimg.org/hc7lwg36b/pizza.png">
+				<img id="pizzaPan" src="http://s11.postimg.org/3lqzi61eb/pizza_Pan.png">
+			<div>
+			</td>
+		</tr>
+	</table>
+	</div>
+<div id="notice">
+<h3>Notice</h3>
+	<p>
+	Please measure your slices properly before cutting; use a <a href="http://www.mathsisfun.com/geometry/full-rotation.html" target="blank">protractor</a>!
+	<u>Equal pizza slice calculator</u> is not responsible for any unequally cut slices.
+	</p>
+</div>
+<div id="footer">
+<div id="sources" onclick="expandCollapse();"> Sources </div>
+<br>
+http://lyndonarmitage.com/making-an-analog-clock-using-the-html5-canvas-tag/
+<br>
+http://www.mathsisfun.com/geometry/radians.html
+<br>
+http://www.mathsisfun.com/geometry/circle-sector-segment.html
+<br>
+http://www.mathsisfun.com/geometry/full-rotation.html
+<br>
+http://www.w3schools.com/tags/ref_canvas.asp
+<br>
+https://developer.mozilla.org/en-US/docs/HTML/Canvas
+<br>
+http://www.html5canvastutorials.com/tutorials/html5-canvas-images/
+
+</div>
+</div>
+
+</body>
+</html>
+<!--/*Copyright © 2013 Dimitrios Kanavaros*/ -->
+    
+        <script src="js/index.js"></script>
+
+    
+    
+    
+  </body>
+</html>
