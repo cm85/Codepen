@@ -2,8 +2,6 @@
 
 - [Age Finder](https://cm85.github.io/Codepen/age-finder/)  
 
-- [Black ñ Blue](https://cm85.github.io/Codepen/black-n-blue/)  
-
 - [Carlo's Crazy Name](http://codepen.io/CM85/full/mExWWa)  
 
 - [Carlo's Footer](https://cm85.github.io/Codepen/carlos-footer/)  
