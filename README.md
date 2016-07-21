@@ -29,23 +29,23 @@
 
 <a href="https://cm85.github.io/Codepen/neon-o-clock/">Neon Military Time Clock</a><br>
 
-<a href="https://cm85.github.io/peppino-s-footer/">Peppino's Footer</a><br>
+<a href="https://cm85.github.io/Codepen/peppino-s-footer/">Peppino's Footer</a><br>
 
 <a href="https://cm85.github.io/Codepen/peppino-s-universe/">Peppino's Universe</a><br>
 
-<a href="https://cm85.github.io/pizza-slice-devider/">Pizza Slice Devider</a><br>
+<a href="https://cm85.github.io/Codepen/pizza-slice-devider/">Pizza Slice Devider</a><br>
 
-<a href="https://cm85.github.io/peppino-s-footer/">Peppino's Footer</a><br>
+<a href="https://cm85.github.io/Codepen/peppino-s-footer/">Peppino's Footer</a><br>
 
-<a href="https://cm85.github.io/smokin-contact/">Smoking Contact Email</a><br>
+<a href="https://cm85.github.io/Codepen/smokin-contact/">Smoking Contact Email</a><br>
 
-<a href="https://cm85.github.io/solar-system/">Our Solar System</a><br>
+<a href="https://cm85.github.io/Codepen/solar-system/">Our Solar System</a><br>
 
-<a href="https://cm85.github.io/ten-till-one/">Ten til' One</a><br>
+<a href="https://cm85.github.io/Codepen/ten-till-one/">Ten til' One</a><br>
 
-<a href="https://cm85.github.io/that-was-easy/">That Was Easy</a><br>
+<a href="https://cm85.github.io/Codepen/that-was-easy/">That Was Easy</a><br>
 
-<a href="https://cm85.github.io/tic-tac-toe/">Tic Tac Toe</a><br>
+<a href="https://cm85.github.io/Codepen/tic-tac-toe/">Tic Tac Toe</a><br>
 
 <a href="https://cm85.github.io/Codepen/zombie-maker/">Pokemon Zombie Maker</a><br>
 
